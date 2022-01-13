@@ -19,30 +19,38 @@ Mpl.live
 Masai School
 Authors
 Dharmesh Yadav
-
 Mukunda
+Mayank Prajapati
+
+
+
+
+
+
+
+
 
 Home Page
-![mayank_new](https://user-images.githubusercontent.com/87421885/149349700-d54e0c21-73e7-48ad-b88a-e65c4a61c08f.jpg)
-
-<img src="https://drive.google.com/file/d/130ZTCHSKtSmgMQW1ANaDSwW-MHvsoUIY/view?usp=sharing"/>
-
-Screenshot (25).png
+![Home_pages](https://user-images.githubusercontent.com/87421885/149353542-f4512b18-c493-4148-a381-c74ba5d453a0.png)
 
 Bottom Page
-Screenshot (30).png
+![Bottom_page](https://user-images.githubusercontent.com/87421885/149353708-c8c28f81-baa6-4804-b49e-fc7bce83665d.png)
+
 
 Navbar
-Screenshot (31).png
+![pages](https://user-images.githubusercontent.com/87421885/149353487-c91efd69-dd7c-4f06-b135-5066fefcb707.pn
+
 
 Esports Page
-Screenshot (33).png
+![Esport_pages](https://user-images.githubusercontent.com/87421885/149353684-9375df4a-1e41-4487-8c9b-91642d02cf24.png)
 
-Screenshot (34).png
+![Faq_pages](https://user-images.githubusercontent.com/87421885/149353656-bcfe2d3f-6b73-45ea-b668-2f225417513a.png)
 
-Screenshot (35).png
 
-Screenshot (36).png
+![Home_page](https://user-images.githubusercontent.com/87421885/149353574-ba23c8f4-b388-4471-987c-87e5244ba5e8.png)
+
+
+![Splider_pages](https://user-images.githubusercontent.com/87421885/149353467-2b3aed0e-5f79-46a3-9a7b-3b4431a52419.png)
 
 Responsive
 We make sure that our website is fully responsive for all screen sizes. Screenshot (37).png
