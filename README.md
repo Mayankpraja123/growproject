@@ -1,6 +1,5 @@
 # growproject
-Logo
-Clone of Mpl.live
+
 Hey there, hope you are doing well. I would like to introduce me first. My name is Mukundh. I am from non CS background . But currently learning Web Development in Masai School. At the end of every unit Construct week happens and this was our first construct week. We got a project where we have to clone MPL.live website with the time bound of seven days. But we have done our work just in three days by using HTML, CSS, JS.
 
 So coming to the project, there is a lots of challenge we got. The below snapshot is landing page that is created by us which is almost similar to the landing page of MPL.live website. We used HTML and CSS for styling the website and some hover effects to the buttons in the page.
